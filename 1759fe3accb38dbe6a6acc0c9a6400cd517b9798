@@ -1,0 +1,1 @@
+{"jobID":"9dfbe6cc-1314-fcc4-e7a1-631af2c26458","spec":{"type":"policy","cause":{"Message":"","User":"Phil Wilks \u003cphil@fourteenfish.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
