@@ -22,9 +22,6 @@ spec:
       containers:
       - name: metricsd
         image: quay.io/stefanprodan/metrics:latest
-        command:
-        - ./metrics
-        - --port=3000
         ports:
         - containerPort: 3000
         readinessProbe:
