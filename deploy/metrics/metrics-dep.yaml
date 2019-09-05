@@ -21,7 +21,7 @@ spec:
     spec:
       containers:
       - name: metricsd
-        image: quay.io/stefanprodan/metrics:latest
+        image: quay.io/repository/brice/metrics-demo:latest
         ports:
         - containerPort: 3000
         readinessProbe:
